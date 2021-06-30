@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paveloshepkov
+- 👋 Hi, I’m Pavel.
 - 👀 I'm interested in mobile development.
 - 🌱 I’m currently learning kotlin.
 - 📫 How to reach me t.me/Emrlord or Emrlord@yandex.ru
