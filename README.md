@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavel.
 - 👀 I'm interested in mobile development.
 - 🌱 I’m currently learning kotlin.
-- 📫 How to reach me t.me/Emrlord or Emrlord@yandex.ru
+- 📫 How to reach me t.me/Emrlord or oshepkovpavel@gmail.com
 
 <!---
 Paveloshepkov/Paveloshepkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
